@@ -14,7 +14,7 @@ flight = {
 # 1. Use the get method to retrieve the aircraft being used
 print(flight["aircraft"])
 
-# 2. Change the aricraft from CR9 to B747
+# 2. Change the aircraft from CR9 to B747
 flight["aircraft"] = "B747"
 print(flight)
 # 3. Add the key departure with a value of "0600" to the flight dictionary
